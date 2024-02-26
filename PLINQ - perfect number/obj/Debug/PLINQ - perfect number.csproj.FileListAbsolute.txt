@@ -1,0 +1,8 @@
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\obj\Debug\PLINQ - perfect number.csproj.AssemblyReference.cache
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\obj\Debug\PLINQ - perfect number.csproj.SuggestedBindingRedirects.cache
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\obj\Debug\PLINQ - perfect number.csproj.CoreCompileInputs.cache
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\bin\Debug\PLINQ - perfect number.exe.config
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\bin\Debug\PLINQ - perfect number.exe
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\bin\Debug\PLINQ - perfect number.pdb
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\obj\Debug\PLINQ - perfect number.exe
+C:\Users\VLADIMIR\source\repos\PLINQ - perfect number\PLINQ - perfect number\obj\Debug\PLINQ - perfect number.pdb
