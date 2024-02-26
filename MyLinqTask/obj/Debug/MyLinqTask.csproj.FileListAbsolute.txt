@@ -1,0 +1,8 @@
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\bin\Debug\MyLinqTask.exe.config
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\bin\Debug\MyLinqTask.exe
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\bin\Debug\MyLinqTask.pdb
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\obj\Debug\MyLinqTask.csproj.AssemblyReference.cache
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\obj\Debug\MyLinqTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\obj\Debug\MyLinqTask.csproj.CoreCompileInputs.cache
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\obj\Debug\MyLinqTask.exe
+C:\Users\VLADIMIR\source\repos\MyLinqTask\MyLinqTask\obj\Debug\MyLinqTask.pdb
