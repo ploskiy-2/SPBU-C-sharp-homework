@@ -1,0 +1,13 @@
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\obj\Debug\DataProcForWebApp.csproj.AssemblyReference.cache
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\obj\Debug\DataProcForWebApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\obj\Debug\DataProcForWebApp.csproj.CoreCompileInputs.cache
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\bin\Debug\DataProcForWebApp.exe.config
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\bin\Debug\DataProcForWebApp.exe
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\bin\Debug\DataProcForWebApp.pdb
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\obj\Debug\DataProcForWebApp.exe
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\obj\Debug\DataProcForWebApp.pdb
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\bin\Debug\EntityFramework.dll
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\bin\Debug\EntityFramework.xml
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VLADIMIR\source\repos\DataProcForWebApp\DataProcForWebApp\obj\Debug\DataProcForWebApp.csproj.CopyComplete
